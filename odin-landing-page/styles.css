@@ -1,0 +1,18 @@
+body {
+  display: unset;
+  margin: 0;
+  min-height: 100vh;
+  letter-spacing: 1px;
+  color: #24336b;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  margin-block: 0;
+}
+
+a {
+  text-decoration: none;
+}
